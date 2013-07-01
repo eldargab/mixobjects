@@ -1,0 +1,20 @@
+{
+  "name": "mixobjects",
+  "version": "1.0.0",
+  "description": "Merge/mix util for objects",
+  "keywords": [
+    "object",
+    "util",
+    "mixin",
+    "merge",
+    "extend"
+  ],
+  "author": "Eldar Gabdullin <eldargab@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/eldargab/mixobjects"
+  },
+  "scripts": {
+    "test": "node test.js"
+  }
+}

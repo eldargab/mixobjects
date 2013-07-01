@@ -1,4 +1,4 @@
-# mix
+# mixobjects
 
 Merge/mix util for objects.
 
@@ -18,8 +18,16 @@ assert.deepEqual(target, {a: 'a', b: 'b', c: 'c'})
 
 ## Installation
 
+via component
+
 ```
-component install eldargab/mix
+component install eldargab/mixobjects
+```
+
+via npm
+
+```
+npm install mixobjects
 ```
 
 ## License
